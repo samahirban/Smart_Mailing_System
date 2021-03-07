@@ -4,3 +4,5 @@ This project is a system for mailing system which is part of my senior project. 
 
 1. Source code of the system.
 2. Demo (video), As the system was running locally.
+
+NOTE: logo of the project was designed by: Shorooq AlQahtani
